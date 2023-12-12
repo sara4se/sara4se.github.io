@@ -4,7 +4,7 @@ Thank you for visiting my portfolio website repository. This Flutter-based websi
 
 ## Live Demo
 
-You can explore the live version of the website [Click to see live demo](https://hamad-anwar.github.io/Portfolio/#/).
+You can explore the live version of the website [Click to see live demo](https://sara4se.github.io).
 
 ## Screenshots
 
@@ -43,16 +43,6 @@ The portfolio website is built using Flutter, a powerful open-source UI software
 - [url_launcher](https://pub.dev/packages/url_launcher): Enables easy integration with external links, allowing visitors to quickly navigate to external resources.
 - [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter): Introduces a wide variety of customizable icons from the FontAwesome library, enhancing the visual representation of the website's features.
 
-## Getting Started
-
-To explore and interact with the portfolio website on your local machine, follow these steps:
-
-1. **Clone the Repository:**
-   git clone https://github.com/Hamad-Anwar/Flutter-Responsive-Portfolio-WebApp.git
-2. **Install Dependencies:**
-   flutter pub get
-3. **Run Application**
-   flutter run
 
 ## Usage Guide
 
@@ -63,22 +53,9 @@ Once the website is up and running, you'll find a range of sections to explore:
 - **Certifications:** Explore my certifications, gaining insight into my professional development journey.
 - **Contact:** Reach out to me through provided contact details or social media links.
 
-
-## Contributions
-
-I welcome contributions and suggestions from the community! If you come across any issues, have ideas for improvements, or wish to contribute in any way, feel free to open an issue or submit a pull request. Let's collaborate to make this portfolio even better!
-
 ## Contact Me
 
 Your feedback and thoughts are highly valued. Feel free to connect with me through:
 
-- **Email:** rh676838@gmail.com
-- **LinkedIn:** [Hamad Anwar](https://www.linkedin.com/in/hamad-anwar)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Designed and developed with ❤️ by [Hamad Anwar](https://www.linkedin.com/in/hamad-anwar/).
+- **Email:** sara.alhumidi4@gmail.com
+- **LinkedIn:** [Sara Alhimidi](https://www.linkedin.com/in/sara-a-mohammed101/)
